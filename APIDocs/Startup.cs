@@ -1,5 +1,5 @@
-using APIDocs.JsonConvert;
 using APIDocs.Helper;
+using APIDocs.JsonConvert;
 using APIDocs.Model;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -11,9 +11,9 @@ using Microsoft.Extensions.PlatformAbstractions;
 using Microsoft.OpenApi.Models;
 using Newtonsoft.Json;
 using System.IO;
+using System.Linq;
 using System.Text.Encodings.Web;
 using System.Text.Unicode;
-using System.Linq;
 
 namespace APIDocs
 {
