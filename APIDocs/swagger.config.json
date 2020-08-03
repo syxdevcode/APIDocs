@@ -1,0 +1,9 @@
+﻿{
+  "SwaggerConfig": {
+    "Version": "v1",
+    "Title": "生成接口word文档-WebApi接口文档",
+    "Description": "WebApi",
+    "ApiScopes": [ "apiApp" ],
+    "XmlComments": [ "APIDocs.xml" ]
+  }
+}
